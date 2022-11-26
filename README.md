@@ -6,7 +6,7 @@
 
 该project实现了四种颜色小球的移动和变色([简单规则](./Project_requirement.pdf)下的生命游戏)。程序使用了algs4库，重写了StdDraw.java来实现GUI动画的显示，并且增加了底部状态栏，实时显示帧率变化。算法实现主要包括：Main_KdTree.java、 Cell.java、 Colors.java、 KdTree.java、 Position.java、 Rect.java 和修改过的 StdDraw.java，其中 Main_KdTree.java 是 main
 函数所在的类，是整个 project 的主类。
-报告内容分为：
+该简介内容分为：
 
 - 一、程序运行方式
 - 二、程序结构：terminal模式、GUI模式的实现方式
